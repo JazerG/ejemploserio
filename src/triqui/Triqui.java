@@ -29,7 +29,7 @@ public class Triqui {
         do {
 
             opc_general = JOptionPane.showInputDialog(null, "************** Menú *************** \n"
-                    + "1. Dados \n"
+                    + "1. Dados git push \n"
                     + "2. Punto y Fama \n"
                     + "3. La margaritia \n"
                     + "4. Salir \n"
